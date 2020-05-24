@@ -794,5 +794,12 @@
     "dates": ["10/27/19"],
     "venue": "Music Box",
     "location": "San Diego, CA"
+  },
+  {
+    "artist": "Moe.",
+    "dates": ["03/07/2020"],
+    "venue": "The Observatory North Park",
+    "location": "San Diego, CA",
+    "notes": "This was their last show before having to cancel shows due to COVID-19"
   }
 ]
