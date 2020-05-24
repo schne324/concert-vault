@@ -1,0 +1,60 @@
+/*
+  color scheme:
+    #4d6cfa - blue
+    #57e2e5 - turquoise
+    #0b132b - dark blue
+    #1c2541 - dark gray blue
+    #3a506b - blue gray
+*/
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  background: #f8f8f8;
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  color: #0b132b;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Poiret One', cursive;
+}
+
+[role='tooltip'] {
+  opacity: 0.97 !important;
+}
+
+@media (max-width: 666px) {
+  body {
+    font-size: 14px;
+  }
+
+  .App .Add {
+    position: relative;
+    top: auto;
+    right: auto;
+    margin: 0 auto;
+    display: block;
+  }
+}
+
+@media (max-width: 444px) {
+  body {
+    font-size: 12px;
+  }
+}

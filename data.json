@@ -1,0 +1,798 @@
+[
+  {
+    "artist": "Ween",
+    "dates": ["12/29/11", "12/30/11", "12/31/11"],
+    "venue": "The Fillmore",
+    "location": "Denver, CO"
+  },
+  {
+    "artist": "Moe.",
+    "dates": ["08/31/12"],
+    "venue": "Bell's Beer Garden",
+    "location": "Kalamazoo, MI"
+  },
+  {
+    "artist": "Yes",
+    "dates": ["04/12/13"],
+    "venue": "Fox Theater",
+    "location": "Detroit, MI"
+  },
+  {
+    "artist": "Steely Dan",
+    "dates": ["07/27/13"],
+    "venue": "Fox Theater",
+    "location": "Detroit, MI"
+  },
+  {
+    "artist": "Tommy Emmanuel",
+    "dates": ["09/07/12"],
+    "venue": "State Theater",
+    "location": "Kalamazoo, MI"
+  },
+  {
+    "artist": "Tommy Emmanuel",
+    "dates": ["09/22/13"],
+    "venue": "DeVos Performance Hall",
+    "location": "Grand Rapids, MI"
+  },
+  {
+    "artist": "G. Love & Special Sauce",
+    "dates": ["08/08/08"],
+    "venue": "Freedom Hill Ampitheater",
+    "location": "Sterling Heights, MI"
+  },
+  {
+    "artist": "John Butler Trio",
+    "dates": ["08/08/08"],
+    "venue": "Freedom Hill Ampitheater",
+    "location": "Sterling Heights, MI"
+  },
+  {
+    "artist": "Zappa Plays Zappa",
+    "dates": ["02/19/14"],
+    "venue": "Michigan Theater",
+    "location": "Ann Arbor, MI"
+  },
+  {
+    "artist": "Lotus",
+    "dates": ["02/25/10"],
+    "venue": "Royal Oak Music Theater",
+    "location": "Royal Oak, MI"
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "dates": ["11/03/06"],
+    "venue": "The Palace",
+    "location": "Auburn Hills, MI"
+  },
+  {
+    "artist": "Joe Satriani",
+    "dates": ["09/21/13"],
+    "venue": "Wings Stadium",
+    "location": "Kalamazoo, MI"
+  },
+  {
+    "artist": "Lupe Fiasco",
+    "dates": ["02/12/09"],
+    "venue": "MSU Auditorium",
+    "location": "East Lansing, MI"
+  },
+  {
+    "artist": "Floodwood",
+    "dates": ["05/22/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "AfroZep",
+    "dates": ["05/22/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Family Groove Company",
+    "dates": ["05/23/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Groundation",
+    "dates": ["05/23/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Moe.",
+    "dates": ["05/23/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Victor Wooten Band",
+    "dates": ["05/23/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Slightly Stoopid",
+    "dates": ["05/23/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Umphrey's McGee",
+    "dates": ["05/23/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Umphrey's McGee",
+    "dates": ["05/23/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Primus",
+    "dates": ["05/23/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Keller Williams",
+    "dates": ["05/24/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Greensky Bluegrass",
+    "dates": ["05/24/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Floodwood",
+    "dates": ["05/24/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "G. Love & Special Sauce",
+    "dates": ["05/24/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Lotus",
+    "dates": ["05/24/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Umphrey's McGee",
+    "dates": ["05/24/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Moe.",
+    "dates": ["05/24/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Umphrey's McGee",
+    "dates": ["05/24/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Moe.",
+    "dates": ["05/24/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Moe.",
+    "dates": ["05/25/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Zac Brown Band",
+    "dates": ["05/25/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Lettuce",
+    "dates": ["05/25/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Trey Anastasio Band",
+    "dates": ["05/25/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Moe.",
+    "dates": ["05/25/14"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "The Main Squeeze",
+    "dates": ["08/23/14"],
+    "venue": "Logan Square",
+    "location": "Chicago, IL"
+  },
+  {
+    "artist": "The Dean Ween Group",
+    "dates": ["08/23/14"],
+    "venue": "Logan Square",
+    "location": "Chicago, IL"
+  },
+  {
+    "artist": "Leftover Salmon",
+    "dates": ["09/09/14"],
+    "venue": "The Ark",
+    "location": "Ann Arbor, MI"
+  },
+  {
+    "artist": "Moe.",
+    "dates": ["09/19/14"],
+    "venue": "Royal Oak Music Theater",
+    "location": "Royal Oak, MI"
+  },
+  {
+    "artist": "Freeman",
+    "dates": ["09/23/14"],
+    "venue": "Magic Stick Theater",
+    "location": "Detroit, MI"
+  },
+  {
+    "artist": "Phish",
+    "dates": ["10/31/14", "11/02/14"],
+    "venue": "MGM Grand Garden Arena",
+    "location": "Las Vegas, NV"
+  },
+  {
+    "artist": "Moe.",
+    "dates": ["10/31/14"],
+    "venue": "Brooklyn Bowl",
+    "location": "Las Vegas, NV"
+  },
+  {
+    "artist": "Moe.",
+    "dates": ["11/01/14"],
+    "venue": "Hard Rock Cafe",
+    "location": "Las Vegas, NV"
+  },
+  {
+    "artist": "Greensky Bluegrass",
+    "dates": ["11/02/14"],
+    "venue": "Brooklyn Bowl",
+    "location": "Las Vegas, NV"
+  },
+  {
+    "artist": "Umphrey's McGee",
+    "dates": ["01/31/15"],
+    "venue": "The Fillmore",
+    "location": "Detroit, MI"
+  },
+  {
+    "artist": "Consider The Source",
+    "dates": ["01/12/15"],
+    "venue": "The Huma Room (Hopcat)",
+    "location": "Detroit, MI"
+  },
+  {
+    "artist": "Moe.",
+    "dates": ["03/19/15"],
+    "venue": "Bottom Lounge",
+    "location": "Chicago, IL"
+  },
+  {
+    "artist": "Moe.",
+    "dates": ["03/20/15", "03/21/15"],
+    "venue": "Concord Music Hall",
+    "location": "Chicago, IL"
+  },
+  {
+    "artist": "Lotus",
+    "dates": ["04/11/15"],
+    "venue": "Royal Oak Music Theater",
+    "location": "Royal Oak, MI"
+  },
+  {
+    "artist": "Family Groove Company",
+    "dates": ["05/21/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Floodwood",
+    "dates": ["05/21/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Moe.",
+    "dates": ["05/22/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "The Infamous Stringdusters",
+    "dates": ["05/22/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Keller Williams and Grateful Grass",
+    "dates": ["05/22/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Umphrey's McGee",
+    "dates": ["05/22/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Godboner meets Gene Ween",
+    "dates": ["05/22/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Umphrey's McGee",
+    "dates": ["05/22/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Family Groove Company",
+    "dates": ["05/23/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Freeman",
+    "dates": ["05/23/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Joe Russo's Almost Dead",
+    "dates": ["05/23/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Victor Wooten",
+    "dates": ["05/23/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Umphrey's McGee",
+    "dates": ["05/23/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Moe.",
+    "dates": ["05/23/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Umphrey's McGee",
+    "dates": ["05/23/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Moe.",
+    "dates": ["05/23/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Moe.",
+    "description": "wsg Bruce Hornsby",
+    "dates": ["05/24/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Bruce Hornsby & The Noisemakers",
+    "dates": ["05/24/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Steve Miller Band",
+    "dates": ["05/24/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Widespread Panic",
+    "dates": ["05/24/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Widespread Panic",
+    "dates": ["05/24/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Greensky Bluegrass",
+    "dates": ["05/24/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Moe.",
+    "dates": ["05/24/15"],
+    "venue": "Summer Camp Music Festival",
+    "location": "Chilicothe, IL",
+    "series": "Summer Camp Music Festival"
+  },
+  {
+    "artist": "Rush",
+    "dates": ["06/14/15"],
+    "venue": "The Palace",
+    "location": "Auburn Hills, MI"
+  },
+  {
+    "artist": "Peter Frampton",
+    "dates": ["07/12/15"],
+    "venue": "DTE Energy Music Theater",
+    "location": "Clarkston, MI"
+  },
+  {
+    "artist": "Steely Dan",
+    "dates": ["07/27/15"],
+    "venue": "DTE Energy Music Theater",
+    "location": "Clarkston, MI"
+  },
+  {
+    "artist": "Phish",
+    "dates": ["08/08/15", "08/09/15"],
+    "venue": "Alpine Valley",
+    "location": "East Troy, WI"
+  },
+  {
+    "artist": "Lettuce",
+    "dates": ["08/15/15"],
+    "venue": "Meadow Brook Amphitheatre",
+    "location": "Rochester Hills, MI"
+  },
+  {
+    "artist": "Umphrey's McGee",
+    "dates": ["08/15/15"],
+    "venue": "Meadow Brook Amphitheatre",
+    "location": "Rochester Hills, MI"
+  },
+  {
+    "artist": "Keller Williams",
+    "dates": ["08/22/15"],
+    "venue": "Bell's Beer Garden",
+    "location": "Kalamazoo, MI"
+  },
+  {
+    "artist": "The Wood Brothers",
+    "dates": ["09/06/15"],
+    "venue": "Michigan International Speedway",
+    "location": "Brooklyn, MI"
+  },
+  {
+    "artist": "Gene Ween",
+    "dates": ["10/05/15"],
+    "venue": "The Blind Pig",
+    "location": "Ann Arbor, MI"
+  },
+  {
+    "artist": "The Infamous Stringdusters",
+    "dates": ["11/07/15"],
+    "venue": "Bell's Beer Garden",
+    "location": "Kalamazoo, MI"
+  },
+  {
+    "artist": "Greensky Bluegrass",
+    "dates": ["11/27/15", "11/28/15"],
+    "venue": "Kalamazoo State Theater",
+    "location": "Kalamazoo, MI"
+  },
+  {
+    "artist": "Umphrey's McGee",
+    "dates": ["01/31/16"],
+    "venue": "Wings Event Center",
+    "location": "Kalamazoo, MI"
+  },
+  {
+    "artist": "Tommy Emmanuel",
+    "dates": ["02/24/16"],
+    "venue": "The Ark",
+    "location": "Ann Arbor, MI"
+  },
+  {
+    "artist": "Everyone Orchestra",
+    "dates": ["03/02/16"],
+    "venue": "The Ark",
+    "location": "Ann Arbor, MI"
+  },
+  {
+    "artist": "Ween",
+    "dates": ["04/14/16", "04/15/16", "04/16/16"],
+    "venue": "Terminal 5",
+    "location": "New York, NY"
+  },
+  {
+    "artist": "Leftover Salmon",
+    "dates": ["06/05/16"],
+    "venue": "The Ark",
+    "location": "Ann Arbor, MI"
+  },
+  {
+    "artist": "Jeff Beck",
+    "dates": ["07/30/16"],
+    "venue": "Meadow Brook Amphitheatre",
+    "location": "Rochester Hills, MI"
+  },
+  {
+    "artist": "Buddy Guy",
+    "dates": ["07/30/16"],
+    "venue": "Meadow Brook Amphitheatre",
+    "location": "Rochester Hills, MI"
+  },
+  {
+    "artist": "Yes",
+    "dates": ["08/19/16"],
+    "venue": "Freedom Hill Ampitheater",
+    "location": "Sterling Heights, MI"
+  },
+  {
+    "artist": "Keller Williams & More Than A Little",
+    "dates": ["09/02/16"],
+    "venue": "Bell's Beer Garden",
+    "location": "Kalamazoo, MI"
+  },
+  {
+    "artist": "Mungion",
+    "dates": ["09/24/16"],
+    "venue": "Concord Music Hall",
+    "location": "Chicago, IL"
+  },
+  {
+    "artist": "Moe.",
+    "dates": ["09/23/16", "09/24/16"],
+    "venue": "Concord Music Hall",
+    "location": "Chicago, IL"
+  },
+  {
+    "artist": "Phish",
+    "dates": ["10/28/16", "10/29/16", "10/30/16", "10/31/16"],
+    "venue": "MGM Grand Garden Arena",
+    "location": "Las Vegas, NV"
+  },
+  {
+    "artist": "Ween",
+    "dates": ["02/17/17", "02/18/17", "02/19/17"],
+    "venue": "Brooklyn Bowl",
+    "location": "Las Vegas, NV"
+  },
+  {
+    "artist": "Snarky Puppy",
+    "dates": ["03/16/17"],
+    "venue": "Hill Auditorium",
+    "location": "Ann Arbor, MI"
+  },
+  {
+    "artist": "Trey Anastasio Band",
+    "dates": ["05/06/17"],
+    "venue": "Royal Oak Music Theater",
+    "location": "Royal Oak, MI"
+  },
+  {
+    "artist": "Ween",
+    "dates": ["06/02/17"],
+    "venue": "Royal Oak Music Theater",
+    "location": "Royal Oak, MI"
+  },
+  {
+    "artist": "Mustard Plug",
+    "dates": ["06/17/17"],
+    "venue": "Founders Fest",
+    "location": "Grand Rapids, MI"
+  },
+  {
+    "artist": "Blues Traveler",
+    "dates": ["06/17/17"],
+    "venue": "Founders Fest",
+    "location": "Grand Rapids, MI"
+  },
+  {
+    "artist": "The Accidentals",
+    "dates": ["06/17/17"],
+    "venue": "Founders Fest",
+    "location": "Grand Rapids, MI"
+  },
+  {
+    "artist": "Leftover Salmon",
+    "dates": ["06/17/17"],
+    "venue": "Founders Fest",
+    "location": "Grand Rapids, MI"
+  },
+  {
+    "artist": "Umphrey's McGee",
+    "dates": ["06/17/17"],
+    "venue": "Founders Fest",
+    "location": "Grand Rapids, MI"
+  },
+  {
+    "artist": "Bela Fleck and the Flecktones",
+    "dates": ["08/12/17"],
+    "venue": "Freedom Hill Ampitheater",
+    "location": "Sterling Heights, MI"
+  },
+  {
+    "artist": "Chick Corea Elektric Band",
+    "dates": ["08/12/17"],
+    "venue": "Freedom Hill Ampitheater",
+    "location": "Sterling Heights, MI"
+  },
+  {
+    "artist": "Snarky Puppy",
+    "dates": ["09/15/17"],
+    "venue": "The Crofoot Ballroom",
+    "location": "Pontiac, MI"
+  },
+  {
+    "artist": "Robert Glasper Experiment",
+    "dates": ["09/15/17"],
+    "venue": "The Crofoot Ballroom",
+    "location": "Pontiac, MI"
+  },
+  {
+    "artist": "Spafford",
+    "dates": ["10/14/17"],
+    "venue": "The Blind Pig",
+    "location": "Ann Arbor, MI"
+  },
+  {
+    "artist": "Haley Jane and the Primates",
+    "dates": ["10/14/17"],
+    "venue": "The Blind Pig",
+    "location": "Ann Arbor, MI"
+  },
+  {
+    "artist": "Victor Wooten Trio",
+    "dates": ["10/26/17"],
+    "venue": "The Ark",
+    "location": "Ann Arbor, MI"
+  },
+  {
+    "artist": "John McLaughlin",
+    "dates": ["11/15/17"],
+    "venue": "Michigan Theater",
+    "location": "Ann Arbor, MI"
+  },
+  {
+    "artist": "Jimmy Herring",
+    "dates": ["11/15/17"],
+    "venue": "Michigan Theater",
+    "location": "Ann Arbor, MI"
+  },
+  {
+    "artist": "Greensky Bluegrass",
+    "dates": ["02/09/18"],
+    "venue": "The Fillmore",
+    "location": "Detroit, MI"
+  },
+  {
+    "artist": "Cory Wong",
+    "dates": ["04/14/18"],
+    "venue": "The Blind Pig",
+    "location": "Ann Arbor, MI",
+    "notes": "wsg Antwuan Stanley. Encore included a cover of Steely Dan's Peg"
+  },
+  {
+    "artist": "The Wood Brothers",
+    "dates": ["04/18/18"],
+    "venue": "The Ark",
+    "location": "Ann Arbor, MI"
+  },
+  {
+    "artist": "Kung Fu",
+    "dates": ["10/26/18"],
+    "venue": "Winstons",
+    "location": "San Diego, CA",
+    "notes": "Part of Kung Fu's Fez west tour which includes awesome covers of Steely Dan songs.  They covered: Bodhisattva, Black Cow, Fez, Green Earrings, and Peg"
+  },
+  {
+    "artist": "Phish",
+    "dates": ["10/31/18", "11/01/18", "11/02/18", "11/03/18"],
+    "venue": "MGM Grand Garden Arena",
+    "location": "Las Vegas, NV",
+    "notes": "4-night halloween run. Halloween night was 3 sets and the other 3 nights were 2 sets. The middle set included a great prank by Phish in which they 'covered' a scandinavian prog band that they invented (Kasvot Växt)."
+  },
+  {
+    "artist": "Greensky Bluegrass",
+    "dates": ["11/09/18"],
+    "venue": "The Observatory North Park",
+    "location": "San Diego, CA"
+  },
+  {
+    "artist": "Lil' Smokies",
+    "dates": ["11/09/18"],
+    "venue": "The Observatory North Park",
+    "location": "San Diego, CA",
+    "notes": "Awesome cover of Rocket man (Elton John)."
+  },
+  {
+    "artist": "Snarky Puppy",
+    "dates": ["06/01/19"],
+    "venue": "House of Blues",
+    "location": "San Diego, CA"
+  },
+  {
+    "artist": "Cory Wong",
+    "dates": ["10/27/19"],
+    "venue": "Music Box",
+    "location": "San Diego, CA"
+  }
+]

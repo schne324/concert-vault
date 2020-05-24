@@ -1,0 +1,51 @@
+h1 {
+  text-align: center;
+  font-size: 5em;
+  margin: 0 0 25px 0;
+  padding: 10px 0;
+  color: #3a506b;
+}
+
+.App .Add {
+  background-color: #fff;
+  color: #3a506b;
+  margin: 0 auto;
+  transition: all 500ms;
+  position: absolute;
+  top: 95px;
+  right: 20px;
+  z-index: 1;
+  border: 2px solid transparent;
+}
+
+.App .Add:hover,
+.App .Add:focus {
+  color: #fff;
+  background-color: #3a506b;
+  transition: all 500ms;
+  border-color: #fff;
+}
+
+.ModalHeader {
+  background: #3a506b;
+  text-align: center;
+}
+
+.ModalHeader h2 {
+  color: #fff;
+}
+
+.ModalActions button {
+  color: #3a506b;
+}
+
+.FieldsWrap .Field-Dates {
+  display: flex;
+}
+
+.FieldsWrap .Field-Dates .AddDate {
+  width: 36px;
+  height: 36px;
+  align-self: center;
+  background: #3a506b;
+}

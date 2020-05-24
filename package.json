@@ -1,0 +1,56 @@
+{
+  "name": "concert-vault",
+  "version": "0.0.0",
+  "license": "MIT",
+  "description": "track your concerts",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "jest"
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "prettier --write",
+      "git add"
+    ],
+    "*.{json,css,md}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "dependencies": {
+    "@material-ui/core": "^3.0.0",
+    "@material-ui/icons": "^3.0.1",
+    "debounce": "^1.2.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "react-flip-move": "^3.0.3",
+    "react-router-dom": "^4.3.1",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.0.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "eslint": "^5.9.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1",
+    "husky": "^1.2.0",
+    "jest": "^23.6.0",
+    "lint-staged": "^8.1.0",
+    "parcel-bundler": "^1.10.3",
+    "prettier": "^1.15.3"
+  }
+}

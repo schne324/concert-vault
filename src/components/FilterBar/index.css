@@ -1,0 +1,23 @@
+.FilterBar .FilterBar-row {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+
+.FilterBar .FilterBar-check {
+  display: flex;
+  justify-content: center;
+  max-width: 210px;
+  margin: 0 auto;
+}
+
+/**
+ * Lazy / hacky way to override a few material ui styles
+ */
+.App .FilterBar .FilterBar-row label {
+  color: #3a506b;
+}
+
+.App .List .FilterBar .FilterBar-row > div > div > div > fieldset {
+  border-color: #3a506b;
+}
