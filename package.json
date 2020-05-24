@@ -4,6 +4,7 @@
   "license": "MIT",
   "description": "track your concerts",
   "scripts": {
+    "build": "parcel build src/index.html",
     "start": "parcel src/index.html",
     "test": "jest"
   },
