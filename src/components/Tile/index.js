@@ -24,8 +24,12 @@ export function Tile({
   concert: { artist, notes, dates, location, venue },
   classes: { tooltip }
 }) {
+  const isFutureConcert = new Date(dates[0]) > Date.now();
+
   return (
-    <div className="List__item">
+    <div
+      className={`List__item ${isFutureConcert ? 'List__item--future' : ''}`}
+    >
       <div className="List__item-head">
         <h2>{artist}</h2>
         <p>{dates.map(displayDate).join(', ')}</p>
@@ -40,6 +44,7 @@ export function Tile({
           </IconButton>
         </Tooltip>
       )}
+      {isFutureConcert && <div className="List__item-notice">Future</div>}
     </div>
   );
 }

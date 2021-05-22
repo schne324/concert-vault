@@ -23,6 +23,10 @@ p {
   overflow: hidden;
 }
 
+.List__item--future {
+  box-shadow: inset 0 0 5px #000;
+}
+
 .List__item::before {
   content: '';
   position: absolute;
@@ -31,6 +35,10 @@ p {
   bottom: 0;
   width: 10px;
   background: #3a506b;
+}
+
+.List__item.List__item--future::before {
+  background: #7daa92;
 }
 
 .List__item h2 {
@@ -64,4 +72,16 @@ p {
 
 [role='tooltip'] {
   font-size: 20px !important;
+}
+
+.List__item-notice {
+  position: absolute;
+  padding: 5px;
+  background: #3a506b;
+  color: #fff;
+  border-radius: 3px;
+  top: 0;
+  right: 0;
+  font-family: 'Poiret One', cursive;
+  box-shadow: 0 0 5px #000;
 }
