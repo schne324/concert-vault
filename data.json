@@ -840,5 +840,11 @@
     "dates": ["11/14/2021"],
     "venue": "Belly Up Tavern",
     "location": "San Diego, CA"
+  },
+  {
+    "artist": "Chicano Batman",
+    "dates": ["11/11/2021"],
+    "venue": "Soma",
+    "location": "San Diego, CA"
   }
 ]
