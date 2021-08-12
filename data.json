@@ -846,5 +846,11 @@
     "dates": ["11/11/2021"],
     "venue": "Soma",
     "location": "San Diego, CA"
+  },
+  {
+    "artist": "Snarky Puppy",
+    "dates": ["11/03/2021"],
+    "venue": "The Observatory North Park",
+    "location": "San Diego, CA"
   }
 ]
