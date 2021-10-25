@@ -827,7 +827,17 @@
     "artist": "Phish",
     "dates": ["10/23/2021"],
     "venue": "North Island Credit Union Amphitheatre",
-    "location": "Chula Vista, CA"
+    "location": "Chula Vista, CA",
+    "links": [{
+      "text": "NICU video",
+      "url": "https://www.youtube.com/watch?v=9n94ntcwL-E"
+    }, {
+      "text": "Setlist/info",
+      "url": "https://phish.net/setlists/phish-october-23-2021-north-island-credit-union-amphitheatre-chula-vista-ca-usa.html"
+    }, {
+      "text": "Jambase article on show",
+      "url": "https://www.jambase.com/article/phish-tour-setlist-chula-vista-nicu"
+    }]
   },
   {
     "artist": "Dead and Company",
