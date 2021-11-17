@@ -812,12 +812,6 @@
     "notes": "This was their last show before having to cancel shows due to covid"
   },
   {
-    "artist": "Umphrey's McGee",
-    "dates": ["09/05/2021"],
-    "venue": "The Observatory North Park",
-    "location": "San Diego, CA"
-  },
-  {
     "artist": "Primus",
     "dates": ["10/19/2021"],
     "venue": "Cal Coast Credit Union Amphitheater",
@@ -858,9 +852,9 @@
     "location": "San Diego, CA"
   },
   {
-    "artist": "Snarky Puppy",
-    "dates": ["11/03/2021"],
-    "venue": "The Observatory North Park",
-    "location": "San Diego, CA"
+    "artist": "King Gizzard & The Lizard Wizard",
+    "dates": ["04/17/2022"],
+    "venue": "Event Lawn at Virgin Hotels",
+    "location": "Las Vegas, NV"
   }
 ]
