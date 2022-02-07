@@ -856,5 +856,11 @@
     "dates": ["04/17/2022"],
     "venue": "Event Lawn at Virgin Hotels",
     "location": "Las Vegas, NV"
+  },
+  {
+    "artist": "Billy Strings",
+    "dates": ["04/15/2022"],
+    "venue": "Brooklyn Bowl",
+    "location": "Las Vegas, NV"
   }
 ]
