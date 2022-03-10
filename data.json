@@ -853,6 +853,12 @@
   },
   {
     "artist": "King Gizzard & The Lizard Wizard",
+    "dates": ["04/11/2022"],
+    "venue": "Humphreys Concert By The Bay",
+    "location": "San Diego, CA"
+  },
+  {
+    "artist": "King Gizzard & The Lizard Wizard",
     "dates": ["04/17/2022"],
     "venue": "Event Lawn at Virgin Hotels",
     "location": "Las Vegas, NV"
