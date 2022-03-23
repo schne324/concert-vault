@@ -868,5 +868,29 @@
     "dates": ["04/15/2022"],
     "venue": "Brooklyn Bowl",
     "location": "Las Vegas, NV"
+  },
+  {
+    "artist": "Steey Dan",
+    "dates": ["05/28/2022"],
+    "venue": "North Island Credit Union Amphitheatre",
+    "location": "Chula Vista, CA"
+  },
+  {
+    "artist": "Snarky Puppy",
+    "dates": ["05/28/2022"],
+    "venue": "North Island Credit Union Amphitheatre",
+    "location": "Chula Vista, CA"
+  },
+  {
+    "artist": "Santana",
+    "dates": ["06/17/2022"],
+    "venue": "North Island Credit Union Amphitheatre",
+    "location": "Chula Vista, CA"
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "dates": ["06/17/2022"],
+    "venue": "North Island Credit Union Amphitheatre",
+    "location": "Chula Vista, CA"
   }
 ]
