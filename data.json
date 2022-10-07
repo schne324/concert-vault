@@ -882,9 +882,21 @@
     "location": "Chula Vista, CA"
   },
   {
-    "artist": "Tower of Power, Lettuce, and San Diego Symphony",
+    "artist": "Tower of Power and San Diego Symphony",
     "dates": ["07/07/2022"],
     "venue": "The Rady Shell at Jacobs Park",
+    "location": "San Diego, CA"
+  },
+  {
+    "artist": "Lettuce and San Diego Symphony",
+    "dates": ["07/07/2022"],
+    "venue": "The Rady Shell at Jacobs Park",
+    "location": "San Diego, CA"
+  },
+  {
+    "artist": "Trey Anastasio Band",
+    "dates": ["10/06/2022"],
+    "venue": "Cal Coast Credit Union Amphitheater",
     "location": "San Diego, CA"
   }
 ]
