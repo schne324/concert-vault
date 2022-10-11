@@ -898,5 +898,11 @@
     "dates": ["10/06/2022"],
     "venue": "Cal Coast Credit Union Amphitheater",
     "location": "San Diego, CA"
+  },
+  {
+    "artist": "Keller Williams",
+    "dates": ["03/30/2023"],
+    "venue": "The Holding Company",
+    "location": "San Diego, CA"
   }
 ]
