@@ -910,5 +910,15 @@
     "dates": ["03/30/2023"],
     "venue": "The Holding Company",
     "location": "San Diego, CA"
+  },
+  {
+    "artist": "King Gizzard & The Lizard Wizard",
+    "dates": ["06/21/2023"],
+    "venue": "The Hollywood Bowl",
+    "location": "Los Angeles, CA",
+    "links": [{
+      "text": "Full concert video (fan shot)",
+      "url": "https://www.youtube.com/watch?v=XMAkcpI8fyQ"
+    }]
   }
 ]
