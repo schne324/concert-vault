@@ -920,5 +920,23 @@
       "text": "Full concert video (fan shot)",
       "url": "https://www.youtube.com/watch?v=XMAkcpI8fyQ"
     }]
+  },
+  {
+    "artist": "Pigeons Playing Ping Pong",
+    "dates": ["11/18/2023"],
+    "venue": "The Observatory North Park",
+    "location": "San Diego, CA"
+  },
+  {
+    "artist": "Ween",
+    "dates": ["02/17/2024", "02/18/2024"],
+    "venue": "The Sound",
+    "location": "Del Mar, CA"
+  },
+  {
+    "artist": "King Gizzard & The Lizard Wizard",
+    "dates": ["11/02/2024"],
+    "venue": "The Rady Shell at Jacobs Park",
+    "location": "San Diego, CA"
   }
 ]
