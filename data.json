@@ -938,5 +938,23 @@
     "dates": ["11/02/2024"],
     "venue": "The Rady Shell at Jacobs Park",
     "location": "San Diego, CA"
+  },
+  {
+    "artist": "Vulfpeck",
+    "dates": ["09/23/2024"],
+    "venue": "The Palladium",
+    "location": "Los Angeles, CA"
+  },
+  {
+    "artist": "Phish",
+    "dates": ["04/25/2025", "04/26/2025", "04/27/2025"],
+    "venue": "The Hollywood Bowl",
+    "location": "Los Angeles, CA"
+  },
+  {
+    "artist": "King Gizzard & The Lizard Wizard",
+    "dates": ["08/11/2025"],
+    "venue": "The Rady Shell at Jacobs Park",
+    "location": "San Diego, CA"
   }
 ]
